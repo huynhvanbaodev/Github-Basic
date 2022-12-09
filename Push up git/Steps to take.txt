@@ -1,0 +1,12 @@
+steps push up git
+1. New -> insert infomation -> create repo
+2. git init
+3. code
+3,1. git status
+3,2. git add .
+3,3. git commit -m "insert name"
+3,4. paste code row six of create in github
+3,5. git push origin master
+
+file old(save) -> green color
+file new(no save) -> red color

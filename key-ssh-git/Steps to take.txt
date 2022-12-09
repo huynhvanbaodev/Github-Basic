@@ -1,0 +1,11 @@
+steps create key shh on git
+1. Avatar -> setting -> ssh and gps keys
+2. document of computer -> git bash here
+3. insert code ssh-keygen -t ed25519 -C "insert email sign in git"
+4. enter
+5. key private may insert or enter
+6. key public may insert or enter
+7. open link row number three
+8. open file .pus -> paste code
+9. New ssh key on github
+9. insert title and paste code in key -> add ssh key

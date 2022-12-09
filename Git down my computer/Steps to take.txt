@@ -1,0 +1,12 @@
+steps down git on your computer and push code up git
+1. New-> insert information -> create
+2. paste link
+3. code
+3,1. git clone paste link(step 2)
+3,2. git status
+3,3. git add .
+3,4. git commit -m "insert name"
+3,5. git push origin main
+
+file chua luu -> mau do
+file da luu -> mau xanh
